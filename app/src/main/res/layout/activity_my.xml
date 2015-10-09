@@ -1,0 +1,98 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MyActivity"
+    android:id="@+id/screen">
+
+    <SurfaceView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/game"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvExplain"
+        android:gravity="center_horizontal|top"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/tvScore"
+        android:textSize="35sp"
+        android:textColor="@android:color/black"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_toEndOf="@+id/tvScore" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvScore"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textSize="35sp"
+        android:gravity="start|top"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvBest"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textSize="35sp"
+        android:gravity="end|top"
+        android:textColor="@android:color/black" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/life1"
+        android:src="@drawable/lives"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/life2"
+        android:src="@drawable/lives"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@id/life1"
+        android:layout_toStartOf="@id/life1"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/life3"
+        android:layout_alignParentBottom="true"
+        android:src="@drawable/lives"
+        android:layout_toLeftOf="@id/life2"
+        android:layout_toStartOf="@id/life2"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgPause"
+        android:src="@drawable/play"
+        android:contentDescription="@string/play_pause_image_content_description"
+        android:layout_marginLeft="-4dp"
+        android:layout_marginStart="-4dp"
+        android:layout_centerVertical="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgBack"
+        android:src="@drawable/back"
+        android:contentDescription="@string/back_image_content_description"
+        android:layout_marginBottom="-4dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true" />
+
+</RelativeLayout>

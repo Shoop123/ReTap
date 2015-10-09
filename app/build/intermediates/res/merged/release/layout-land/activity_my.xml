@@ -1,0 +1,178 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MyActivity"
+    android:id="@+id/screen"
+    android:clickable="false">
+
+    <SurfaceView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/game"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvExplain"
+        android:gravity="center_horizontal|top"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/tvScore"
+        android:textSize="35sp"
+        android:textColor="@android:color/black"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_toEndOf="@+id/tvScore" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvScore"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textSize="35sp"
+        android:gravity="start|top"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvBest"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textSize="35sp"
+        android:gravity="end|top"
+        android:textColor="@android:color/black" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/life1"
+        android:src="@drawable/lives"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/life2"
+        android:src="@drawable/lives"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@id/life1"
+        android:layout_toStartOf="@id/life1"
+        android:longClickable="false" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/life3"
+        android:layout_alignParentBottom="true"
+        android:src="@drawable/lives"
+        android:layout_toLeftOf="@id/life2"
+        android:layout_toStartOf="@id/life2"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgPause"
+        android:src="@drawable/play"
+        android:contentDescription="@string/play_pause_image_content_description"
+        android:layout_marginLeft="-4dp"
+        android:layout_marginStart="-4dp"
+        android:layout_centerVertical="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgBack"
+        android:src="@drawable/back"
+        android:contentDescription="@string/back_image_content_description"
+        android:layout_marginBottom="-4dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgLivesP11"
+        android:src="@drawable/lives"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="false" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgLivesP22"
+        android:src="@drawable/lives"
+        android:layout_above="@+id/imgLivesP21"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvIndicatorP1"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="60dp"
+        android:text="@string/player_1"
+        android:rotation="270"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvIndicatorP2"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="60dp"
+        android:text="@string/player_2"
+        android:rotation="90"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgLivesP23"
+        android:src="@drawable/lives"
+        android:layout_alignWithParentIfMissing="false"
+        android:layout_above="@+id/imgLivesP22"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgLivesP21"
+        android:src="@drawable/lives"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgLivesP12"
+        android:src="@drawable/lives"
+        android:layout_below="@+id/imgLivesP11"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgLivesP13"
+        android:src="@drawable/lives"
+        android:layout_below="@+id/imgLivesP12"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>
+<!-- From: file:/home/daniel/Documents/ReTap/app/src/main/res/layout-land/activity_my.xml -->

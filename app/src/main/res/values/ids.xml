@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Google Play Games services IDs.-->
+    <string name="app_id">316115010598</string>
+
+    <!--Stand-Alone-->
+    <string name="achievement_pop_your_cherry">CgkIpoixz5kJEAIQCg</string>
+
+    <!--Normal Mode-->
+    <string name="achievement_retapped">CgkIpoixz5kJEAIQAQ</string>
+    <string name="achievement_gotta_tap_em_all">CgkIpoixz5kJEAIQAg</string>
+    <string name="achievement_mastor_haxor_360_no_scopor">CgkIpoixz5kJEAIQAw</string>
+
+    <!--Frenzy Mode-->
+    <string name="achievement_pew_pew_gotcha">CgkIpoixz5kJEAIQBA</string>
+    <string name="achievement_iz_nice">CgkIpoixz5kJEAIQBQ</string>
+    <string name="achievement_i_need_a_life_">CgkIpoixz5kJEAIQBg</string>
+
+    <!--Both-->
+    <string name="achievement_treefitty">CgkIpoixz5kJEAIQCQ</string>
+
+    <!--Leader boards-->
+    <string name="leaderboard_normal_mode">CgkIpoixz5kJEAIQBw</string>
+    <string name="leaderboard_frenzy_mode">CgkIpoixz5kJEAIQCA</string>
+</resources>

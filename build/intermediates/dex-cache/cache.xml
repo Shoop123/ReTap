@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-85c618baa3a173a01d95cc056b4dd1e9a4e66071.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-b5424a1baf34cf2568476f95058d69780f2ba741.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-08618d3c530d7c114d3181662a5bad35042a9669.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-f449b4735a89fa7c6ce5b21233ba2e5b4345a182.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-793800c7311bf478c11b8d0e7c011db805ec0b7f.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-64bcc87502cdcc8eae0e97149e19c949a5109b73.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-c81079d694aab1f772eb4b02e2a02446f0a7090a.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-fc1cd71d81b96baf801cbf63e3e01de662ef233b.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-dd0a54c8ec47c279e3247bb949e8be55001ea1a2.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-4821c9838abc1a25429b4c71c09a59035f529ac5.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-e61111f06fca7adbc1a7a92f89fa85c9c47e3a98.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-596c62393e00e9ad3671b1d00d0ac6bbea5a1b9c.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-c497c726725caa868a55dfd2ab5c96777f3e1804.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-edec9ba7695741eff8516eac5565511a0ebb1a8a.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-8a71ccc32c86adf1a568593c653cc1d7a8398790.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-d5f8f5f023f50202f3d69ff04a261dd9f6721425.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/ReTap/BaseGameUtils/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2af01786c460359f5a9269cf2dd77cd7ac50c62d">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-b5a66e0bdfc4913df7374d76ea4633538df75b28.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/ReTap/giftizSDKLibrary/unspecified/jars/libs/GiftizSDK_1.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e43f838265ab799f2f3f8b9b5e3e7adf4e4aa7ad">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/GiftizSDK_1.5.0-a7744c339d2ea7a162456323cd2d957d0b0cb5aa.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-14ddc8f16fb99e49be93786521870008db11cb1b.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-45eb56d9715ddac3decbb994a15e62f4fbbbf75a.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-01bec71109a1f01799040294cd310d881ed7e1b8.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-8151819b550d5671d692ac2af46bc9e7441ff83c.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/ReTap/giftizSDKLibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9f0621c3edfc4f4a3a6d03ee2e9398e29a1b8064">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-a5c80ec8568de68b9685ad17a767c226abe8fbf9.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-41881bf116c45b1b5136017b67d75eb3191c4324.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-a3a4b3a43ec24b1cac6579ad1722c8f3eae25f79.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-9f813a58fa868bfccb196a530b1558e97a0da52f.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-c0aa7cde9d7b46a70c663a5777cbf6282d5d4009.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-2d2fd74f66550ba9bd83bd82bc4351f1ce343e47.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-13db5dfe0a841f2dcf153b2a78ddd535f6bc7bc3.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-7941910f45a3a1be4acefb6f9335d8e20ab015ad.jar" />
+    </item>
+    <item
+        jar="/home/daniel/Documents/ReTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/home/daniel/Documents/ReTap/app/build/intermediates/pre-dexed/debug/classes-5c9181ba8e921ff4d8466fbedd49bd27773b06f1.jar" />
+    </item>
+
+</items>

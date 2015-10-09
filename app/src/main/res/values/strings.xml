@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ReTap</string>
+
+    <string name="high_score_normal_mode">High Score For Normal Mode</string>
+    <string name="high_score_frenzy_mode">High Score For Frenzy Mode</string>
+
+    <string name="theme">Theme</string>
+    <string name="rainbow">Rainbow</string>
+
+    <string name="currentTouchDownTime">How long the user held his finger on the screen before turning screen off</string>
+
+    <string name="autoSignInOption">Auto Sign-In Option</string>
+    <string name="sign_in_other_error">There was an issue with the sign in, please try again later.</string>
+    <string name="no_network_error">No network connection detected. Please connect to the internet and try again.</string>
+    <string name="no_internet">No Internet</string>
+
+    <string name="pick_a_color">Pick a Color!</string>
+
+    <string name="lives_image_content_description">Lives Image</string>
+    <string name="play_pause_image_content_description">Play/Pause Image</string>
+    <string name="back_image_content_description">Back Image</string>
+    <string name="high_res_icon_content_description">High-res icon for ReTap</string>
+
+    <string name="interval">Interval</string>
+    <string name="currentMaxTime">Current Max Time</string>
+
+    <!--Colors-->
+    <string name="blue">Blue</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="orange">Orange</string>
+    <string name="purple">Purple</string>
+    <string name="pink">Pink</string>
+    <string name="rainbowColor">RainbowColor</string>
+
+    <!--Giftiz Mission-->
+    <string name="mission">Get a score of 30 or more in any mode</string>
+
+    <!--Button Text-->
+    <string name="tap">Tap</string>
+    <string name="retap">ReTap</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="frenzy">Frenzy</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="giftiz">Giftiz</string>
+    <string name="themes">Themes</string>
+    <string name="color">Color</string>
+    <string name="split_screen">Split Screen</string>
+
+    <!--Text for the Tutorial-->
+    <string name="firstText">Tap the circles to gain points.</string>
+    <string name="secondText">←Your points increment with each deflated circle. Tap to continue</string>
+    <string name="thirdText">Tap and hold these circles to decrease the number on them to 0</string>
+    <string name="fourthText">This timer gets smaller the longer you hold your finger on the screen, when it disappears you won\'t be able to touch any circle until it starts recharging. Tap to continue</string>
+    <string name="fifthText">Your lives go down every time you miss a circle</string>
+    <string name="sixthText">Every time you unlock a Google Play Games achievement, you get a new theme. Pick your themes from the \"themes\" menu at the bottom left. Tap to finish!</string>
+
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="player_1_winner">Player 1 Wins</string>
+    <string name="player_2_winner">Player 2 Wins</string>
+</resources>
